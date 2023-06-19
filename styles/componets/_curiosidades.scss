@@ -1,0 +1,13 @@
+@import '../abstract/variaveis';
+
+.section-curiosidade {
+    text-align: center;
+    .texts-curiosidade {
+        font-size: 1.1rem;
+        margin: 0  18.75rem;
+        line-height: 1.5rem;
+        h4 {
+            color: $cor-primaria;
+        }
+    }
+}
